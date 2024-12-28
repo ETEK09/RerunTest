@@ -1,13 +1,22 @@
-//ASP.NET standers for Active Server Pages.NET. ASP is a web framework developed by Microsoft for building dynamic web pages and services. It allows users to build and deploy robust, scalable, and intereactive web pages using languages such as c# and vb.NET
-fhfhfhf fugfgfgff ///Test comments to see what happens///
+//ASP.NET for means active server pages. It was developed by Microsoft for building dynamic web apps and services. It allows users to build scallable, robust, and interactive web apps using coding languages such as c# and VB.NET.///
 
-
-
+using MySql.Data.MySqlClient;
+using RerunTest;
+using System.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddScoped<IDbConnection>((s) =>
+{
+    IDbConnection conn = new MySqlConnection(builder.Configuration.GetConnectionString("inventory_test"));
+    conn.Open();
+    return conn;
+});
+
+builder.Services.AddTransient<IInventoryRepository, InventoryRepository>();
 
 var app = builder.Build();
 

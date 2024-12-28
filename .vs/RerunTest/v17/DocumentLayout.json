@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\RerunTest\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E356DB9-C3CF-45AB-9933-3DB469F8B1A9}|RerunTest\\RerunTest.csproj|c:\\users\\ericc\\onedrive\\desktop\\repos\\reruntest\\reruntest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E356DB9-C3CF-45AB-9933-3DB469F8B1A9}|RerunTest\\RerunTest.csproj|solutionrelative:reruntest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E356DB9-C3CF-45AB-9933-3DB469F8B1A9}|RerunTest\\RerunTest.csproj|c:\\users\\ericc\\onedrive\\desktop\\repos\\reruntest\\reruntest\\controllers\\inventory\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E356DB9-C3CF-45AB-9933-3DB469F8B1A9}|RerunTest\\RerunTest.csproj|solutionrelative:reruntest\\controllers\\inventory\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E356DB9-C3CF-45AB-9933-3DB469F8B1A9}|RerunTest\\RerunTest.csproj|c:\\users\\ericc\\onedrive\\desktop\\repos\\reruntest\\reruntest\\views\\inventory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E356DB9-C3CF-45AB-9933-3DB469F8B1A9}|RerunTest\\RerunTest.csproj|solutionrelative:reruntest\\views\\inventory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E356DB9-C3CF-45AB-9933-3DB469F8B1A9}|RerunTest\\RerunTest.csproj|c:\\users\\ericc\\onedrive\\desktop\\repos\\reruntest\\reruntest\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E356DB9-C3CF-45AB-9933-3DB469F8B1A9}|RerunTest\\RerunTest.csproj|solutionrelative:reruntest\\inventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E356DB9-C3CF-45AB-9933-3DB469F8B1A9}|RerunTest\\RerunTest.csproj|c:\\users\\ericc\\onedrive\\desktop\\repos\\reruntest\\reruntest\\iinventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E356DB9-C3CF-45AB-9933-3DB469F8B1A9}|RerunTest\\RerunTest.csproj|solutionrelative:reruntest\\iinventoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E356DB9-C3CF-45AB-9933-3DB469F8B1A9}|RerunTest\\RerunTest.csproj|c:\\users\\ericc\\onedrive\\desktop\\repos\\reruntest\\reruntest\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E356DB9-C3CF-45AB-9933-3DB469F8B1A9}|RerunTest\\RerunTest.csproj|solutionrelative:reruntest\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +47,83 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\RerunTest\\RerunTest\\Controllers\\Inventory\\InventoryController.cs",
+              "RelativeDocumentMoniker": "RerunTest\\Controllers\\Inventory\\InventoryController.cs",
+              "ToolTip": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\RerunTest\\RerunTest\\Controllers\\Inventory\\InventoryController.cs",
+              "RelativeToolTip": "RerunTest\\Controllers\\Inventory\\InventoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:23:41.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\RerunTest\\RerunTest\\Views\\Inventory\\Index.cshtml",
+              "RelativeDocumentMoniker": "RerunTest\\Views\\Inventory\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\RerunTest\\RerunTest\\Views\\Inventory\\Index.cshtml",
+              "RelativeToolTip": "RerunTest\\Views\\Inventory\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T11:06:05.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\RerunTest\\RerunTest\\InventoryRepository.cs",
+              "RelativeDocumentMoniker": "RerunTest\\InventoryRepository.cs",
+              "ToolTip": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\RerunTest\\RerunTest\\InventoryRepository.cs",
+              "RelativeToolTip": "RerunTest\\InventoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:42:36.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IInventoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\RerunTest\\RerunTest\\IInventoryRepository.cs",
+              "RelativeDocumentMoniker": "RerunTest\\IInventoryRepository.cs",
+              "ToolTip": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\RerunTest\\RerunTest\\IInventoryRepository.cs",
+              "RelativeToolTip": "RerunTest\\IInventoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:39:11.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\RerunTest\\RerunTest\\Models\\Inventory.cs",
+              "RelativeDocumentMoniker": "RerunTest\\Models\\Inventory.cs",
+              "ToolTip": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\RerunTest\\RerunTest\\Models\\Inventory.cs",
+              "RelativeToolTip": "RerunTest\\Models\\Inventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:21:51.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\RerunTest\\RerunTest\\Program.cs",
+              "RelativeDocumentMoniker": "RerunTest\\Program.cs",
+              "ToolTip": "C:\\Users\\ericc\\OneDrive\\Desktop\\Repos\\RerunTest\\RerunTest\\Program.cs",
+              "RelativeToolTip": "RerunTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:16:37.65Z",
+              "EditorCaption": ""
             }
           ]
         },

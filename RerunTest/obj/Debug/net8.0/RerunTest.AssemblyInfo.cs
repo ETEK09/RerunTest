@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RerunTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89a3b2ea0484666eb8cfc83064ddc26827451ae5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c68a4d159cf1543f08724e32298c88d69c8caadc")]
 [assembly: System.Reflection.AssemblyProductAttribute("RerunTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RerunTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
